@@ -1,6 +1,6 @@
 #include "Rectangel.h"
 
-Rectangel::Rectangel()
+Rectangel::Rectangel() 
 {
     //ctor
 }
