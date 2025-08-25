@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1755002367 source:e:\c++\oop\inheritance\src\studen.cpp
+	"Studen.h"
+
+1755000534 e:\c++\oop\inheritance\include\studen.h
+	<Person.h>
+
+1755000034 e:\c++\oop\inheritance\include\person.h
+	<iostream>
+
+1755003340 source:e:\c++\oop\inheritance\main.cpp
+	<iostream>
+	<Person.h>
+	<Student.h>
+	<Employee.h>
+	<PostGraduateStudent.h>
+
+1755002405 source:e:\c++\oop\inheritance\src\person.cpp
+	"Person.h"
+	<iostream>
+
+1755002367 source:e:\c++\oop\inheritance\src\employee.cpp
+	"Employee.h"
+
+1755001031 e:\c++\oop\inheritance\include\employee.h
+	<Person.h>
+
+1755003289 source:e:\c++\oop\inheritance\src\student.cpp
+	"Student.h"
+
+1755003289 e:\c++\oop\inheritance\include\student.h
+	<Person.h>
+
+1755003511 e:\c++\oop\inheritance\include\postgraduatestudent.h
+	<Student.h>
+
+1755003675 source:e:\c++\oop\inheritance\src\postgraduatestudent.cpp
+	"PostGraduateStudent.h"
+

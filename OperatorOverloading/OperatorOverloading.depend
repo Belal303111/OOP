@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1754849203 source:e:\c++\oop\operatoroverloading\main.cpp
+	<iostream>
+	<Distance.h>
+
+1754849447 e:\c++\oop\operatoroverloading\include\distance.h
+
+1754849531 source:e:\c++\oop\operatoroverloading\src\distance.cpp
+	"Distance.h"
+	<iostream>
+
